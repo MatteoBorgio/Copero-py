@@ -1,0 +1,1906 @@
+[
+  {
+    "name": "Atalanta",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 81
+  },
+  {
+    "name": "Bologna",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Cagliari",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "Como",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "Empoli",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "Fiorentina",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "Genoa",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Inter",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 85
+  },
+  {
+    "name": "Juventus",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 83
+  },
+  {
+    "name": "Lazio",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "Lecce",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "AC Milan",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Monza",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "Napoli",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Parma",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "AS Roma",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "Torino",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Udinese",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Venezia",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "Hellas Verona",
+    "league": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "Bari",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Brescia",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Carrarese",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "Catanzaro",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "Cesena",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Cittadella",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Cosenza",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Cremonese",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Frosinone",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Juve Stabia",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Mantova",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Modena",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Palermo",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Pisa",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "Reggiana",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Salernitana",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "Sampdoria",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Sassuolo",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 74
+  },
+  {
+    "name": "Spezia",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Südtirol",
+    "league": "Serie B",
+    "country": "Italy",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Arsenal",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 85
+  },
+  {
+    "name": "Aston Villa",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 81
+  },
+  {
+    "name": "Bournemouth",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "Brentford",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Brighton & Hove Albion",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 79
+  },
+  {
+    "name": "Chelsea",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Crystal Palace",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Everton",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "Fulham",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Ipswich Town",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "Leicester City",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Liverpool",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 85
+  },
+  {
+    "name": "Manchester City",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 87
+  },
+  {
+    "name": "Manchester United",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Newcastle United",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 81
+  },
+  {
+    "name": "Nottingham Forest",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "Southampton",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "West Ham United",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 79
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "league": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Blackburn Rovers",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "Bristol City",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Burnley",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 75
+  },
+  {
+    "name": "Cardiff City",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Coventry City",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Derby County",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "Hull City",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "Leeds United",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 76
+  },
+  {
+    "name": "Luton Town",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 74
+  },
+  {
+    "name": "Middlesbrough",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Millwall",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Norwich City",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 73
+  },
+  {
+    "name": "Oxford United",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Plymouth Argyle",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Portsmouth",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Preston North End",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Queens Park Rangers",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Sheffield United",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 74
+  },
+  {
+    "name": "Sheffield Wednesday",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "Stoke City",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "Sunderland",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Swansea City",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Watford",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "West Bromwich Albion",
+    "league": "EFL Championship",
+    "country": "England",
+    "tier": 2,
+    "rating": 73
+  },
+  {
+    "name": "Athletic Club",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 81
+  },
+  {
+    "name": "Atlético de Madrid",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 84
+  },
+  {
+    "name": "FC Barcelona",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 86
+  },
+  {
+    "name": "Real Betis",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 79
+  },
+  {
+    "name": "Celta de Vigo",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "RCD Espanyol",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "Getafe CF",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Girona FC",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "UD Las Palmas",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "CD Leganés",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "RCD Mallorca",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "CA Osasuna",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "Rayo Vallecano",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Real Madrid",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 87
+  },
+  {
+    "name": "Real Sociedad",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 81
+  },
+  {
+    "name": "Sevilla FC",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "Valencia CF",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Real Valladolid",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "Villarreal CF",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "Deportivo Alavés",
+    "league": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Albacete Balompié",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "UD Almería",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 73
+  },
+  {
+    "name": "Burgos CF",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "Cádiz CF",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "CD Castellón",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Córdoba CF",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Deportivo La Coruña",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "SD Eibar",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Elche CF",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "CD Eldense",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Granada CF",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 73
+  },
+  {
+    "name": "SD Huesca",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Levante UD",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Málaga CF",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "CD Mirandés",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Racing de Ferrol",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Racing de Santander",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Real Oviedo",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "Real Zaragoza",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Sporting de Gijón",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "CD Tenerife",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "FC Andorra",
+    "league": "Segunda División",
+    "country": "Spain",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "FC Augsburg",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Union Berlin",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "VfL Bochum",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "Werder Bremen",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 79
+  },
+  {
+    "name": "SC Freiburg",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "1. FC Heidenheim",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "TSG 1899 Hoffenheim",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Holstein Kiel",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "RB Leipzig",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Bayer 04 Leverkusen",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 85
+  },
+  {
+    "name": "1. FSV Mainz 05",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "FC Bayern München",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 86
+  },
+  {
+    "name": "FC St. Pauli",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "VfB Stuttgart",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "VfL Wolfsburg",
+    "league": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Eintracht Braunschweig",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Hertha BSC",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 73
+  },
+  {
+    "name": "Darmstadt 98",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "Fortuna Düsseldorf",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 73
+  },
+  {
+    "name": "SV Elversberg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Greuther Fürth",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "Hamburger SV",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 74
+  },
+  {
+    "name": "Hannover 96",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "1. FC Kaiserslautern",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Karlsruher SC",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "1. FC Köln",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 73
+  },
+  {
+    "name": "Preußen Münster",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "1. FC Magdeburg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "1. FC Nürnberg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "SC Paderborn 07",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "SSV Jahn Regensburg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "FC Schalke 04",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "SSV Ulm 1846",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Angers SCO",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 71
+  },
+  {
+    "name": "AJ Auxerre",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "Stade Brestois 29",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Le Havre AC",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "RC Lens",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "Lille OSC",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 79
+  },
+  {
+    "name": "AS Monaco",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "Montpellier HSC",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "FC Nantes",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "OGC Nice",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "Olympique Lyonnais",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 79
+  },
+  {
+    "name": "Olympique de Marseille",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 86
+  },
+  {
+    "name": "Stade de Reims",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Stade Rennais",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "AS Saint-Étienne",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "RC Strasbourg Alsace",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Toulouse FC",
+    "league": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "rating": 74
+  },
+  {
+    "name": "AC Ajaccio",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Amiens SC",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "FC Annecy",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "SC Bastia",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "SM Caen",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 69
+  },
+  {
+    "name": "Clermont Foot 63",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "US Dunkerque",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Grenoble Foot 38",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "EA Guingamp",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Stade Lavallois",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "FC Lorient",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 72
+  },
+  {
+    "name": "FC Martigues",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "FC Metz",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 71
+  },
+  {
+    "name": "Paris FC",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 70
+  },
+  {
+    "name": "Pau FC",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Red Star FC",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Rodez AF",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "ES Troyes AC",
+    "league": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "FC Arouca",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "AVS Futebol SAD",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 69
+  },
+  {
+    "name": "SL Benfica",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Boavista FC",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 71
+  },
+  {
+    "name": "Casa Pia AC",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 71
+  },
+  {
+    "name": "GD Estoril Praia",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "CF Estrela da Amadora",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 70
+  },
+  {
+    "name": "FC Famalicão",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "Gil Vicente FC",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 71
+  },
+  {
+    "name": "Moreirense FC",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "Nacional",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 69
+  },
+  {
+    "name": "FC Porto",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 81
+  },
+  {
+    "name": "Rio Ave FC",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 71
+  },
+  {
+    "name": "Santa Clara",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 70
+  },
+  {
+    "name": "SC Braga",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "Sporting CP",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 82
+  },
+  {
+    "name": "Vitoria Guimarães",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 76
+  },
+  {
+    "name": "Farense",
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "rating": 70
+  },
+  {
+    "name": "Académico de Viseu",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "FC Alverca",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 64
+  },
+  {
+    "name": "SL Benfica B",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "CD Feirense",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "FC Felgueiras 1932",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 64
+  },
+  {
+    "name": "GD Chaves",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "CD Mafra",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "CS Marítimo",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "FC Paços de Ferreira",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "FC Penafiel",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "Portimonense SC",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "FC Porto B",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Leixões SC",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "UD Leiria",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "SC Torreense",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "UD Oliveirense",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "FC Vizela",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "CD Tondela",
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "AFC Ajax",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 78
+  },
+  {
+    "name": "AZ Alkmaar",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "Feyenoord",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 80
+  },
+  {
+    "name": "Fortuna Sittard",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 71
+  },
+  {
+    "name": "Go Ahead Eagles",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "FC Groningen",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 71
+  },
+  {
+    "name": "SC Heerenveen",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 72
+  },
+  {
+    "name": "Heracles Almelo",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 70
+  },
+  {
+    "name": "NAC Breda",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 69
+  },
+  {
+    "name": "NEC Nijmegen",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "PEC Zwolle",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 70
+  },
+  {
+    "name": "PSV Eindhoven",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 81
+  },
+  {
+    "name": "RKC Waalwijk",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 69
+  },
+  {
+    "name": "Sparta Rotterdam",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 73
+  },
+  {
+    "name": "FC Twente",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 77
+  },
+  {
+    "name": "FC Utrecht",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 75
+  },
+  {
+    "name": "Willem II",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 70
+  },
+  {
+    "name": "Almere City FC",
+    "league": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "rating": 69
+  },
+  {
+    "name": "ADO Den Haag",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Cambuur Leeuwarden",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "De Graafschap",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "FC Den Bosch",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 64
+  },
+  {
+    "name": "FC Dordrecht",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "FC Eindhoven",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "FC Emmen",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "FC Helmond Sport",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 64
+  },
+  {
+    "name": "FC Volendam",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "Jong Ajax",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Jong AZ",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "Jong PSV",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 66
+  },
+  {
+    "name": "Jong FC Utrecht",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 63
+  },
+  {
+    "name": "MVV Maastricht",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 64
+  },
+  {
+    "name": "Roda JC Kerkrade",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 67
+  },
+  {
+    "name": "Telstar",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 64
+  },
+  {
+    "name": "TOP Oss",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 63
+  },
+  {
+    "name": "Vitesse",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 68
+  },
+  {
+    "name": "VVV-Venlo",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 65
+  },
+  {
+    "name": "Excelsior Rotterdam",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "tier": 2,
+    "rating": 68
+  }
+]
