@@ -29,3 +29,5 @@ LEAGUE_RATIO = {
     "Eredivisie": 1.2,
     "Eerste Divisie": 1.6,
 }
+
+FOOT = ["RIGHT", "LEFT", "BOTH"]
