@@ -46,7 +46,7 @@ class Player:
 
     @property
     def overall(self) -> int:
-        return self.__overall
+        return int(self.__overall)
 
     @overall.setter
     def overall(self, new_overall: int) -> None:
@@ -103,12 +103,35 @@ class Player:
             raise ValueError("Updated average is not valid.")
         self.__career_average = updated_average
 
-    def standard_update(self, last_season_appearence: int, last_season_average: float):
-        def multiplier(self, last_season_appearence: int, last_season_average: float):
+    def standard_update(
+        self, last_season_appearence: int, last_season_average: float
+    ) -> None:
+        def multiplier(
+            self, last_season_appearence: int, last_season_average: float
+        ) -> float:
             multiplier = 1
             if self.__age <= 20:
                 multiplier += (
                     0.1 + (last_season_appearence * 0.01) + (last_season_average * 0.01)
                 )
             elif self.__age > 20 and self.__age < 28:
-                pass
+                multiplier += (
+                    0.05
+                    + (last_season_appearence * 0.001)
+                    + (last_season_average * 0.005)
+                )
+            elif self.__age >= 28 and self.__age < 33:
+                multiplier -= (
+                    0.05
+                    - (last_season_appearence * 0.01)
+                    + (last_season_average * 0.01)
+                )
+            else:
+                multiplier -= (
+                    0.1
+                    - (last_season_appearence * 0.001)
+                    + (last_season_average * 0.001)
+                )
+            return multiplier
+
+        self.__overall *= multiplier(self, last_season_appearence, last_season_average)
